@@ -1,6 +1,6 @@
 {
-    "name": "februari-frost",
-    "displayName": "Februari Frost",
+    "name": "february-frost",
+    "displayName": "February Frost",
     "description": "A light and flat theme based on my dark theme September Steel.",
     "version": "0.0.1",
     "publisher": "perragnaredin",
@@ -23,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Februari Frost",
+                "label": "February Frost",
                 "uiTheme": "vs",
-                "path": "./themes/Februari Frost-color-theme.json"
+                "path": "./themes/February Frost-color-theme.json"
             }
         ]
     }
