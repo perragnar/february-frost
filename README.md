@@ -1,7 +1,7 @@
 # Februari Frost
 
 This is a light, flat and actually not so frosty as you think.
-Still a WIP so a lot will probably change...
+Still a WIP and a new theme, so expect a lot of bugs and tweaks to come...
 
 Enjoy!
 
