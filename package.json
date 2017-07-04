@@ -1,0 +1,70 @@
+{
+    "name": "februari-frost",
+    "displayName": "Februari Frost",
+    "description": "A light and flat theme based on my dark theme September Steel.",
+    "version": "0.0.1",
+    "publisher": "perragnaredin",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "galleryBanner": {
+		"color": "#f5f5f5",
+		"theme": "light"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "flat",
+        "theme",
+        "light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Februari Frost",
+                "uiTheme": "vs",
+                "path": "./themes/Februari Frost-color-theme.json"
+            }
+        ]
+    }
+}
+
+
+
+
+{
+    "name": "september-steel",
+    "displayName": "September Steel",
+    "description": "A dark flat theme based on One Monokai Theme by Joshua Azemoh.",
+    "version": "0.0.8",
+    "publisher": "perragnaredin",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+		"color": "#2f333d",
+		"theme": "dark"
+	},
+    "keywords": [
+        "flat",
+        "theme",
+        "dark",
+        "steel",
+        "one monokai"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "September Steel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/September Steel-color-theme.json"
+            }
+        ]
+    }
+}
