@@ -32,8 +32,8 @@
 		"editor.findMatchBackground": "#ffc900",
 		"editor.findMatchHighlightBackground": "#ffe37b",
 		"editor.hoverHighlightBackground": "#ffc900",
-		"editorHoverWidget.background": "#21252b",
-		"editorHoverWidget.border": "#181a1f",
+		"editorHoverWidget.background": "#ffffff",
+        "editorHoverWidget.border": "#5a637580",
 		"diffEditor.insertedTextBackground": "#00809b33",
 		"editorGroup.border": "#e1e3e7",
 		"editorCursor.foreground": "#a53500",
@@ -537,7 +537,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#0451a5"
+				"foreground": "#316bcd"
 			}
 		},
 		{
