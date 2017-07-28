@@ -294,6 +294,12 @@
 			}
 		},
 		{
+			"scope": "string.unquoted",
+			"settings": {
+				"foreground": "#258eff"
+			}
+		},
+		{
 			"scope": [
 				"string.comment.buffered.block.jade",
 				"string.quoted.jade",
