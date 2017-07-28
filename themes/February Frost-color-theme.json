@@ -39,7 +39,7 @@
 		"editorCursor.foreground": "#a53500",
 		"editorWhitespace.foreground": "#e1e3e7",
 		"editorIndentGuide.background": "#e1e3e7",
-		"editorLineNumber.foreground": "#666666",
+		"editorLineNumber.foreground": "#c5cdd5",
 		"editorRuler.foreground": "#e1e3e7",
 		"editorBracketMatch.background": "#ffe37b",
 		"editorBracketMatch.border": "#ffe37b",
