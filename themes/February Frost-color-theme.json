@@ -136,7 +136,7 @@
 			"name": "css tags in selectors, xml tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#a53500"
+				"foreground": "#258eff"
 			}
 		},
 		{
@@ -318,8 +318,7 @@
 				"string.quoted.double.handlebars"
 			],
 			"settings": {
-				"foreground": "#258eff",
-				"fontStyle": "italic"
+				"foreground": "#811f3f"
 			}
 		},
 		{
