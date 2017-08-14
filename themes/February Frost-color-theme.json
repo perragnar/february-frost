@@ -2,6 +2,7 @@
 	"name": "February Frost",
 	"type": "light",
 	"colors": {
+		"tab.inactiveForeground": "#B3B3B3",
 		"titleBar.border": "#e1e3e7",
         "tab.activeBackground": "#F0F0F0",
         "scrollbar.shadow": "#00000011",
@@ -49,7 +50,6 @@
 		"tab.inactiveBackground": "#f5f5f5",
 		"tab.border": "#e1e3e7",
 		"tab.activeForeground": "#5c6370",
-		"tab.inactiveForeground": "#5c6370",
 		"editorGroup.background": "#f5f5f5",
 		"editorGroupHeader.tabsBackground": "#f5f5f5",
 		"editorGroupHeader.tabsBorder": "#e1e3e7",
