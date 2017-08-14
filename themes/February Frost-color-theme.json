@@ -2,6 +2,10 @@
 	"name": "February Frost",
 	"type": "light",
 	"colors": {
+		"diffEditor.insertedTextBackground": "#D3EEFF",
+        "diffEditor.insertedTextBorder": "#B4CEDE",
+        "diffEditor.removedTextBackground": "#F8DCDC",
+        "diffEditor.removedTextBorder": "#DB9A9A",
 		"tab.inactiveForeground": "#B3B3B3",
 		"titleBar.border": "#e1e3e7",
         "tab.activeBackground": "#F0F0F0",
@@ -37,7 +41,6 @@
 		"editor.hoverHighlightBackground": "#ffc900",
 		"editorHoverWidget.background": "#ffffff",
         "editorHoverWidget.border": "#5a637580",
-		"diffEditor.insertedTextBackground": "#00809b33",
 		"editorGroup.border": "#e1e3e7",
 		"editorCursor.foreground": "#a53500",
 		"editorWhitespace.foreground": "#e1e3e7",
