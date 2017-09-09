@@ -3,12 +3,12 @@
 	"type": "light",
 	"colors": {
 		"diffEditor.insertedTextBackground": "#30951844",
-        "diffEditor.removedTextBackground": "#E1000018",
+		"diffEditor.removedTextBackground": "#E1000018",
 		"tab.inactiveForeground": "#B3B3B3",
 		"titleBar.border": "#e1e3e7",
-        "tab.activeBackground": "#F0F0F0",
-        "scrollbar.shadow": "#00000011",
-        "widget.shadow": "#00000011",
+		"tab.activeBackground": "#F0F0F0",
+		"scrollbar.shadow": "#00000011",
+		"widget.shadow": "#00000011",
 		"editor.lineHighlightBackground": "#fff3c7",
 		"input.background": "#ffffff",
 		"input.foreground": "#686c71",
@@ -38,7 +38,7 @@
 		"editor.findMatchHighlightBackground": "#ffe37b",
 		"editor.hoverHighlightBackground": "#ffc900",
 		"editorHoverWidget.background": "#ffffff",
-        "editorHoverWidget.border": "#5a637580",
+		"editorHoverWidget.border": "#5a637580",
 		"editorGroup.border": "#e1e3e7",
 		"editorCursor.foreground": "#a53500",
 		"editorWhitespace.foreground": "#e1e3e7",
@@ -80,7 +80,9 @@
 		"statusBar.debuggingBackground": "#21252b",
 		"editorGutter.modifiedBackground": "#258eff",
 		"editorGutter.addedBackground": "#7cb32a",
-		"editorGutter.deletedBackground": "#a53500"
+		"editorGutter.deletedBackground": "#a53500",
+		"tab.activeBorder": "#3EA2FF",
+    "tab.unfocusedActiveBorder": "#B2CBE0"
 	},
 	"tokenColors": [
 		{
