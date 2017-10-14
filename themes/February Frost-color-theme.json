@@ -2,11 +2,38 @@
 	"name": "February Frost",
 	"type": "light",
 	"colors": {
+		"tab.activeBackground": "#00000000",
+		"tab.activeForeground": "#000000",
+		"tab.inactiveBackground": "#00000000",
+		"editorSuggestWidget.background": "#ffffff",
+    "activityBar.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "panel.border": "#00000000",
+    "sideBar.border": "#00000000",
+    "sideBar.foreground": "#838fa5",
+    "tab.border": "#00000000",
+    "titleBar.border": "#00000000",
+    "statusBar.border": "#00000000",
+    "sideBarSectionHeader.background": "#00000000",
+    "sideBarSectionHeader.foreground": "#000000",
+    "list.activeSelectionBackground": "#258eff",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionBackground": "#258eff3f",
+    "list.inactiveSelectionForeground": "#000000",
+    "list.hoverBackground": "#00000000",
+    "list.hoverForeground": "#000000",
+    "editorWidget.background": "#ffffff",
+    "terminal.ansiBlack": "#1D1F23",
+    "terminal.ansiBlue": "#61afef",
+    "terminal.ansiGreen": "#98c379",
+    "terminal.ansiYellow": "#e5c07b",
+    "terminal.ansiCyan": "#56b6c2",
+    "terminal.ansiRed": "#e06c75",
+    "terminal.ansiMagenta": "#b267e6",
+    "terminal.ansiWhite": "#bbbbbb",
 		"diffEditor.insertedTextBackground": "#30951844",
 		"diffEditor.removedTextBackground": "#E1000018",
 		"tab.inactiveForeground": "#B3B3B3",
-		"titleBar.border": "#e1e3e7",
-		"tab.activeBackground": "#F0F0F0",
 		"scrollbar.shadow": "#00000011",
 		"widget.shadow": "#00000011",
 		"editor.lineHighlightBackground": "#fff3c7",
@@ -17,12 +44,6 @@
 		"dropdown.background": "#ffffff",
 		"dropdown.border": "#cfd8dd",
 		"list.focusBackground": "#cfd8dd",
-		"list.activeSelectionBackground": "#ffc900",
-		"list.activeSelectionForeground": "#73540d",
-		"list.inactiveSelectionBackground": "#ffe37b",
-		"list.inactiveSelectionForeground": "#b18522",
-		"list.hoverBackground": "#ffe37b",
-		"list.hoverForeground": "#b18522",
 		"list.highlightForeground": "#a53500",
 		"button.foreground": "#ffffff",
 		"button.background": "#a53500",
@@ -32,7 +53,6 @@
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"editor.background": "#f5f5f5",
 		"editor.foreground": "#666666",
-		"editorWidget.background": "#f5f5f5",
 		"editor.selectionBackground": "#ffe37b",
 		"editor.findMatchBackground": "#ffc900",
 		"editor.findMatchHighlightBackground": "#ffe37b",
@@ -48,32 +68,22 @@
 		"editorBracketMatch.background": "#ffe37b",
 		"editorBracketMatch.border": "#ffe37b",
 		"editorError.foreground": "#c24038",
-		"tab.inactiveBackground": "#f5f5f5",
-		"tab.border": "#e1e3e7",
-		"tab.activeForeground": "#5c6370",
 		"editorGroup.background": "#f5f5f5",
 		"editorGroupHeader.tabsBackground": "#f5f5f5",
-		"editorGroupHeader.tabsBorder": "#e1e3e7",
 		"statusBar.foreground": "#5c6370",
 		"statusBar.background": "#f5f5f5",
-		"statusBar.border": "#e1e3e7",
 		"statusBar.noFolderBackground": "#21252b",
 		"statusBarItem.hoverBackground": "#e1e9ed",
 		"activityBar.background": "#f5f5f5",
 		"activityBar.foreground": "#5c6370",
-		"activityBar.border": "#e1e3e7",
 		"activityBarBadge.background": "#a53500",
 		"activityBarBadge.foreground": "#f8fafd",
 		"sideBar.background": "#f5f5f5",
-		"sideBar.foreground": "#5c6370",
-		"sideBar.border": "#e1e3e7",
-		"sideBarSectionHeader.background": "#e1e3e7",
 		"titleBar.activeForeground": "#5c6370",
 		"titleBar.inactiveForeground": "#5c6370",
 		"titleBar.activeBackground": "#f5f5f5",
 		"titleBar.inactiveBackground": "#f5f5f5",
 		"notification.background": "#21252b",
-		"editorSuggestWidget.background": "#cfd8dd",
 		"editorSuggestWidget.border": "#cfd8dd",
 		"editorSuggestWidget.foreground": "#686c71",
 		"editorSuggestWidget.selectedBackground": "#ffe37b",
@@ -571,6 +581,137 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#800080"
+			}
+		},
+		{
+			"scope": "markup.heading.markdown",
+			"settings": {
+				"foreground": "#939aa8",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"markup.heading.setext.1.markdown",
+				"markup.heading.setext.2.markdown"
+			],
+			"settings": {
+				"foreground": "#0069b4",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.name.section.markdown",
+			"settings": {
+				"foreground": "#0069b4"
+			}
+		},
+		{
+			"scope": [
+				"markup.underline.link.image.markdown",
+				"markup.underline.link.markdown"
+			],
+			"settings": {
+				"foreground": "#258eff"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.metadata.markdown",
+				"punctuation.definition.string.end.markdown",
+				"punctuation.definition.string.begin.markdown",
+				"punctuation.definition.markdown",
+				"punctuation.definition.raw.markdown"
+			],
+			"settings": {
+				"foreground": "#939aa8"
+			}
+		},
+		{
+			"scope": [
+				"beginning.punctuation.definition.list.markdown"
+			],
+			"settings": {
+				"foreground": "#98c379"
+			}
+		},
+		{
+			"scope": [
+				"markup.bold.markdown"
+			],
+			"settings": {
+				"foreground": "#98c379",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"markup.italic.markdown"
+			],
+			"settings": {
+				"foreground": "#e06c75",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"markup.quote.markdown"
+			],
+			"settings": {
+				"foreground": "#56b6c2",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"fenced_code.block.language"
+			],
+			"settings": {
+				"foreground": "#E06B74"
+			}
+		},
+		{
+			"scope": [
+				"markup.list.unnumbered.markdown"
+			],
+			"settings": {
+				"foreground": "#a53500"
+			}
+		},
+		{
+			"scope": [
+				"markup.inline.raw.markdown",
+				"markup.raw.block.markdown",
+				"markup.fenced_code.block.markdown"
+			],
+			"settings": {
+				"foreground": "#258eff"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.constant.begin.markdown",
+				"punctuation.definition.constant.end.markdown",
+				"punctuation.definition.link.markdown"
+			],
+			"settings": {
+				"foreground": "#939aa8"
+			}
+		},
+		{
+			"scope": [
+				"meta.separator.markdown"
+			],
+			"settings": {
+				"foreground": "#939aa8"
+			}
+		},
+		{
+			"scope": [
+				"constant.other.reference.link.markdown"
+			],
+			"settings": {
+				"foreground": "#e06c75"
 			}
 		}
 	]
