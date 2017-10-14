@@ -2,6 +2,10 @@
     "name": "february-frost",
     "displayName": "February Frost",
     "description": "A light and flat theme based on my dark theme September Steel.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/perragnar/february-frost"
+    },
     "version": "0.1.0",
     "preview": true,
     "publisher": "perragnaredin",
