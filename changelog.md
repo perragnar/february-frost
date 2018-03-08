@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.3]
+
+- Highlighting current line number.
+
 ## [0.1.2]
 
 - Updated readme.md.
