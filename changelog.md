@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.1.4]
+
+- Added panel active tab border.
+- Added integrated terminal border.
+
+Thanks [Eren Hatırnaz](https://github.com/erenhatirnaz)!
+
 ## [0.1.3]
 
 - Highlighting current line number.
