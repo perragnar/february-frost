@@ -83,7 +83,7 @@
 		"titleBar.inactiveForeground": "#5c6370",
 		"titleBar.activeBackground": "#f5f5f5",
 		"titleBar.inactiveBackground": "#f5f5f5",
-		"editorActiveLineNumber.foreground": "#000000aa",
+		"editorLineNumber.activeForeground": "#000000aa",
 		"editorSuggestWidget.border": "#cfd8dd",
 		"editorSuggestWidget.foreground": "#686c71",
 		"editorSuggestWidget.selectedBackground": "#ffe37b",
