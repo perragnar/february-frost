@@ -1,8 +1,15 @@
 # Change Log
 
-## [0.1.4]
+## [0.1.5]
 
 - Updated a deprecated theme setting.
+
+## [0.1.4]
+
+- Added panel active tab border.
+- Added integrated terminal border.
+
+Thanks [Eren Hatırnaz](https://github.com/erenhatirnaz)!
 
 ## [0.1.3]
 

@@ -92,7 +92,9 @@
 		"editorGutter.addedBackground": "#7cb32a",
 		"editorGutter.deletedBackground": "#a53500",
 		"tab.activeBorder": "#3EA2FF",
-		"tab.unfocusedActiveBorder": "#B2CBE0"
+		"tab.unfocusedActiveBorder": "#B2CBE0",
+		"panelTitle.activeBorder": "#3ea2ff",
+      		"terminal.border": "#c5c7ca"
 	},
 	"tokenColors": [
 		{
