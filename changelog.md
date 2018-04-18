@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.4]
+
+- Updated a deprecated theme setting.
+
 ## [0.1.3]
 
 - Highlighting current line number.
