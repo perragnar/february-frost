@@ -63,6 +63,7 @@
 		"editorCursor.foreground": "#a53500",
 		"editorWhitespace.foreground": "#e1e3e7",
 		"editorIndentGuide.background": "#e1e3e7",
+		"editorIndentGuide.activeBackground": "#b4b8be",
 		"editorLineNumber.foreground": "#c5cdd5",
 		"editorRuler.foreground": "#e1e3e7",
 		"editorBracketMatch.background": "#ffe37b",
@@ -94,7 +95,7 @@
 		"tab.activeBorder": "#3EA2FF",
 		"tab.unfocusedActiveBorder": "#B2CBE0",
 		"panelTitle.activeBorder": "#3ea2ff",
-      		"terminal.border": "#c5c7ca"
+		"terminal.border": "#c5c7ca"
 	},
 	"tokenColors": [
 		{
