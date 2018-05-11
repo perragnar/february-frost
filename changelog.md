@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.7]
+
+- Minor color tweaks.
+
 ## [0.1.6]
 
 - Added support for guided indent guides.
