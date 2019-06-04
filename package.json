@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/perragnar/february-frost"
     },
-    "version": "0.1.7",
+    "version": "0.2.0",
     "preview": true,
     "publisher": "perragnaredin",
     "icon": "images/icon.png",
@@ -26,10 +26,12 @@
         "light"
     ],
     "contributes": {
-        "themes": [{
-            "label": "February Frost",
-            "uiTheme": "vs",
-            "path": "./themes/February Frost-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "February Frost",
+                "uiTheme": "vs",
+                "path": "./themes/February Frost-color-theme.json"
+            }
+        ]
     }
 }

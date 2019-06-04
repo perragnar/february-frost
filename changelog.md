@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.2.0]
+
+- Added borders, shadows and changed background colors to separate panels and editors.
+- Updated screenshots.
+
 ## [0.1.7]
 
 - Minor color tweaks.

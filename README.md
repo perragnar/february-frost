@@ -8,4 +8,6 @@ Enjoy!
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/perragnar/february-frost/master/images/screenshots/screenshot-01.png)
+![Screenshot 1](https://raw.githubusercontent.com/perragnar/february-frost/master/images/screenshots/screenshot-01.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/perragnar/february-frost/master/images/screenshots/screenshot-02.png)
