@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.1]
+
+- Change tree indent guide color.
+
 ## [0.2.0]
 
 - Added borders, shadows and changed background colors to separate panels and editors.
