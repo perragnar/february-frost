@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.2]
+
+- Inactive tabs now have a solid background color. [#2](https://github.com/perragnar/february-frost/issues/2). Thanks to [Abidur](https://github.com/abidurr) for reporting the issue.
+
 ## [0.2.1]
 
 - Change tree indent guide color.
